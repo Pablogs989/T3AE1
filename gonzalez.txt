@@ -1,2 +1,6 @@
 rtbweb
+<<<<<<< HEAD
 user1
+=======
+User2
+>>>>>>> T3AE1/master
